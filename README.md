@@ -1,5 +1,5 @@
 # Prediction_of_Used_Car_Prices
-Various regression models are used to predict the price of used cars based on various features related to the car.
+Various regression models are used to predict the price of used cars based on various features related to the car. My other data science projects can be found in the given link [click here](https://abdlwhd.github.io/Abdulwahidz_Portfolio/)
 # Dataset Description
 Dataset is available at UCI repository for link [click here](https://github.com/rihal-om/rihal-challenges/tree/main/data_science) <br/> 
 Dataset features include:
